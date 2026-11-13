@@ -1,1 +1,12 @@
+public class EmployeeRegistration {
+
+    private int employeeId;
+    private String employeeName;
+    private String department;
+    private double salary;
+
+    public void registerEmployee() {
+        System.out.println("Employee Registered Successfully");
+    }
+}
 
