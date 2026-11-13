@@ -1,0 +1,11 @@
+GIT HANDS-ON PRACTICE
+
+Day 1: Git Basics
+
+1. Git is a Version Control System.
+2. GitHub is a platform for hosting Git repositories.
+3. git init - Initialize repository.
+4. git add - Stage changes.
+5. git commit - Save changes.
+6. git push - Upload changes to remote repository.
+7. git pull - Download and integrate changes.
