@@ -10,3 +10,9 @@ git push
 git pull
 git clone
 git branch
+git merge
+git stash
+git reset
+git revert
+git rebase
+git cherry-pick
