@@ -1,0 +1,6 @@
+git branch
+git branch feature/employee-api
+git switch feature/employee-api
+git switch main
+git merge feature/employee-api
+git branch -d feature/employee-api
