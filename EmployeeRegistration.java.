@@ -6,7 +6,7 @@ public class EmployeeRegistration {
     private double salary;
 
     public void registerEmployee() {
-        System.out.println("Employee Registered Successfully");
+    System.out.println("Employee Registered Successfully - Developer B");
     }
 }
 
